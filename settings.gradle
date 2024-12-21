@@ -1,5 +1,6 @@
 pluginManagement {
     repositories {
+        google()  // Add this line
         mavenCentral()
         gradlePluginPortal()
     }
